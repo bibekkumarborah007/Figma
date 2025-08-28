@@ -1,4 +1,4 @@
-# Note: For gitpreview check the screenshots else download in zip file then open in Figma software
+# Note: For Git preview check the screenshots else download in zip file then open in Figma software to explore
 # Figma
 These are my figma work and tutorial practice work
 
